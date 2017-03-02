@@ -296,7 +296,6 @@ h2 {
 #primary div.img {
 	margin: 5px;
 	border: 1px solid #ccc;
-	display: inline-block
 	width: 180px;
 }
 
@@ -435,4 +434,21 @@ ul.thumbs {
 	background: none;
 	z-index: 2;
 	color: rgba(153,26,26,.50);
+}
+
+@media screen and (max-width: 640px) {
+	body {
+
+	}
+}
+@media screen and (max-width: 768px) {
+	body {
+
+	}
+}
+
+@media screen and (max-width: 980px) {
+	body {
+
+	}
 }
